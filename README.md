@@ -23,6 +23,7 @@ Mining Pool http://pool.luckyaltcoin.com
 #
 Github https://github.com/RDGTECH/Coppercoin.git
 #
+Discord https://discord.gg/hhZwX9E
 #
 
 
