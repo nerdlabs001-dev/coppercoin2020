@@ -16,8 +16,11 @@ Target timespan 1 block
 Transaction confirmations 4 blocks
 #
 Web Site http://coppercoin.net
+#
 Block Explorer https://coppercoin.explorerhub.io/
+#
 Mining Pool http://pool.luckyaltcoin.com
+#
 Github https://github.com/RDGTECH/Coppercoin.git
 #
 #
