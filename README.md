@@ -21,7 +21,7 @@ Block Explorer https://coppercoin.explorerhub.io/
 #
 Mining Pool http://pool.luckyaltcoin.com
 #
-Github https://github.com/RDGTECH/Coppercoin.git
+Github https://github.com/RDGTECH/CoppercoinV2.git
 #
 Discord https://discord.gg/hhZwX9E
 #
