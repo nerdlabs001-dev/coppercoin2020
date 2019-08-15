@@ -7,6 +7,7 @@ Coppercoin is a hybrid scrypt PoW+PoS based cryptocurrency
 Block Reward 200 COPPER
 PoS Percentage  3% per year on staked coins
 Last PoW Block 800.000
+POS activated at Block 775.000
 #
 Total coin supply 160.000.000
 #
