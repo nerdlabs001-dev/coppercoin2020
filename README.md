@@ -4,7 +4,7 @@ Coppercoin is a peer-to-peer Internet currency that enables instant, near-zero c
 Coppercoin is an open source, global payment network that is fully decentralized without any central authorities. 
 #
 Coppercoin is a hybrid scrypt PoW+PoS based cryptocurrency
-Block Reward 200 COPPER
+Block Reward 200 Cu
 PoS Percentage  3% per year on staked coins
 Last PoW Block 800.000
 POS activated at Block 775.000
