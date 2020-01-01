@@ -21,7 +21,7 @@
 const int CONSOLE_SCROLLBACK = 50;
 const int CONSOLE_HISTORY = 50;
 
-const QSize ICON_SIZE(24, 24);
+const QSize ICON_SIZE(32, 32);
 
 const struct {
     const char *url;
