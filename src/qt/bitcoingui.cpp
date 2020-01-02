@@ -78,7 +78,7 @@ BitcoinGUI::BitcoinGUI(QWidget *parent):
     nWeight(0)
 {
     resize(875, 550);
-    setWindowTitle(tr("Coppercoin"));
+    setWindowTitle(tr("Coppercoin Cu"));
 
     //qApp->setStyleSheet("QMainWindow { background-image:url(:/images/res/images/background.png);}");
     qApp->setStyleSheet("QMainWindow { background-color: #ffffff }");
