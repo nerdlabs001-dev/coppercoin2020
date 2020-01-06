@@ -2,6 +2,14 @@
 <ui version="4.0">
  <class>OverviewPage</class>
  <widget class="QWidget" name="OverviewPage">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1114</width>
+    <height>509</height>
+   </rect>
+  </property>
   <property name="windowTitle">
    <string>Form</string>
   </property>
@@ -94,8 +102,8 @@
                 <widget class="QLabel" name="label_7">
                  <property name="maximumSize">
                   <size>
-                   <width>250</width>
-                   <height>250</height>
+                   <width>200</width>
+                   <height>200</height>
                   </size>
                  </property>
                  <property name="text">
@@ -568,7 +576,7 @@
                      <number>9</number>
                     </property>
                     <property name="verticalSpacing">
-                     <number>4</number>
+                     <number>7</number>
                     </property>
                     <property name="topMargin">
                      <number>0</number>
@@ -3533,8 +3541,34 @@
            </layout>
           </widget>
          </item>
+         <item row="2" column="2">
+          <spacer name="horizontalSpacer_5">
+           <property name="orientation">
+            <enum>Qt::Horizontal</enum>
+           </property>
+           <property name="sizeHint" stdset="0">
+            <size>
+             <width>40</width>
+             <height>20</height>
+            </size>
+           </property>
+          </spacer>
+         </item>
         </layout>
        </widget>
+      </item>
+      <item row="0" column="3">
+       <spacer name="horizontalSpacer_9">
+        <property name="orientation">
+         <enum>Qt::Horizontal</enum>
+        </property>
+        <property name="sizeHint" stdset="0">
+         <size>
+          <width>40</width>
+          <height>20</height>
+         </size>
+        </property>
+       </spacer>
       </item>
      </layout>
     </widget>
