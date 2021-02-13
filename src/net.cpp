@@ -1229,17 +1229,13 @@ void MapPort()
 // The first name is used as information source for addrman.
 // The second name should resolve to a list of seed addresses.
 static const char *strDNSSeed[][2] = {
-    {"Cu-Seed-subdomain", "cu00.nerdlabs001.com"},
-    {"Cu-Seed-subdomain", "cu01.nerdlabs001.com"},
-    {"Cu-Seed-subdomain", "cu02.nerdlabs001.com"},
-    {"Cu-Seed-subdomain", "cu03.nerdlabs001.com"},
-    {"Cu-Seed-subdomain", "cu04.nerdlabs001.com"},
-    {"Cu-Seed-subdomain", "cu05.nerdlabs001.com"},
-    {"Cu-Seed-subdomain", "cu06.nerdlabs001.com"},
-    {"Cu-Seed-subdomain", "cu07.nerdlabs001.com"},
-    {"Cu-Seed-subdomain", "cu08.nerdlabs001.com"},
-    {"Cu-Seed-subdomain", "cu09.nerdlabs001.com"},
-    {"Cu-Seed-subdomain", "cu10.nerdlabs001.com"},
+    {"Cu-DNS", "cu0.nerdlabs001.com"},
+    {"Cu-DNS", "cu1.nerdlabs001.com"},
+    {"Cu-DNS", "cu2.nerdlabs001.com"},
+    {"Cu-DNS", "cu3.nerdlabs001.com"},
+    {"Cu-DNS", "cu4.nerdlabs001.com"},
+    {"Cu-DNS", "cu5.nerdlabs001.com"},
+
 
 };
 
