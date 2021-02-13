@@ -1240,26 +1240,7 @@ static const char *strDNSSeed[][2] = {
     {"Cu-Seed-subdomain", "cu08.nerdlabs001.com"},
     {"Cu-Seed-subdomain", "cu09.nerdlabs001.com"},
     {"Cu-Seed-subdomain", "cu10.nerdlabs001.com"},
-    {"Cu-Seed-subdomain", "cu11.nerdlabs001.com"},
-    {"Cu-Seed-subdomain", "cu12.nerdlabs001.com"},
-    {"Cu-Seed-subdomain", "cu13.nerdlabs001.com"},
-    {"Cu-Seed-subdomain", "cu14.nerdlabs001.com"},
-    {"Cu-Seed-subdomain", "cu15.nerdlabs001.com"},
-    {"Cu-Seed-subdomain", "cu16.nerdlabs001.com"},
-    {"Cu-Seed-subdomain", "cu17.nerdlabs001.com"},
-    {"Cu-Seed-subdomain", "cu18.nerdlabs001.com"},
-    {"Cu-Seed-subdomain", "cu19.nerdlabs001.com"},
-    {"Cu-Seed-subdomain", "cu20.nerdlabs001.com"},
-    {"Cu-Seed-subdomain", "cu21.nerdlabs001.com"},
-    {"Cu-Seed-subdomain", "cu22.nerdlabs001.com"},
-    {"Cu-Seed-subdomain", "cu23.nerdlabs001.com"},
-    {"Cu-Seed-subdomain", "cu24.nerdlabs001.com"},
-    {"Cu-Seed-subdomain", "cu25.nerdlabs001.com"},
-    {"Cu-Seed-subdomain", "cu26.nerdlabs001.com"},
-    {"Cu-Seed-subdomain", "cu27.nerdlabs001.com"},
-    {"Cu-Seed-subdomain", "cu28.nerdlabs001.com"},
-    {"Cu-Seed-subdomain", "cu29.nerdlabs001.com"},
-    {"Cu-Seed-subdomain", "cu30.nerdlabs001.com"},
+
 };
 
 void ThreadDNSAddressSeed(void* parg)
